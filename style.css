@@ -8,8 +8,8 @@
   scroll-behavior: smooth;
 }
 :root{
-    --primary-color:#ff8882;
-    --black-color:#0E2431;
+    --primary-color:#fd5593;
+    --black-color:#910628;
     --white-color:#fff;
 
 }
@@ -124,6 +124,7 @@ nav.sticky .menu-btn{
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
+  background-image: url("https://img.freepik.com/premium-vector/dreamy-pink-cloud-abstract-illustration-background-vector-design_1277546-19192.jpg");
 }
 .home .home-content{
   width:90%;
